@@ -1,4 +1,4 @@
-# 👩‍🎨 Paint by Text
+# 👩‍🎨 hola
 
 Modify images by chatting with a generative AI model.
 
